@@ -32,6 +32,7 @@ body {
 	border-radius: 30px;
 	box-shadow: 20px;
 	border: 2px solid #ff6531;
+	align-item: center;
 }
 
 .result {
